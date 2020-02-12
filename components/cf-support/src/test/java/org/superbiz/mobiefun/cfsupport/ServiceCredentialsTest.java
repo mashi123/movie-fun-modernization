@@ -1,6 +1,7 @@
-package org.superbiz.moviefun;
+package org.superbiz.mobiefun.cfsupport;
 
 import org.junit.Test;
+import org.superbiz.mobiefun.cfsupport.ServiceCredentials;
 
 import static org.hamcrest.core.IsEqual.equalTo;
 import static org.junit.Assert.*;
